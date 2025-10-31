@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jortixel&show_icons=true&locale=en&layout=compact" alt="jortixel" /></p>
 
-<!--
-**Jortixel/Jortixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p><img src="https://github-readme-stats.vercel.app/api?username=jortixel&show_icons=true&locale=en" alt="jortixel" /></p>
 
-Here are some ideas to get you started:
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jortixel&" alt="jortixel" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
+    </a>
+  </p>
+</div>
